@@ -6,7 +6,7 @@ The idea of the workshop came from the principle that good crafters know their t
 good use of the various features and shortcuts of my IDE and thought investing the time to learn them would be
 beneficial.
 
-## Excercises
+## Exercises
 
 The various exercices are here to help you discover features of your existing IDE, or might be useful if you want to
 switch to a new one to start exploring. There are some some exercises covering basic text editing, some based around
@@ -14,7 +14,7 @@ refactoring, etc .
 You are encouraged to follow a "both hands on keyboard" rule to go further and forgo the mouse/trackpad entirely to
 start building muscle memory for those time saving shortcuts....
 
-Each excercise is described in the corresponding .md file. They follow a loose logical order, but there is no dependency
+Each exercise is described in the corresponding .md file. They follow a loose logical order, but there is no dependency
 between them, so you can pick & choose. The general format is:
 * Do XYZ - no constraints
 * Find a quicker way (explore menus / identify shortcuts / ask around...)
