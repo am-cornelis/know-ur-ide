@@ -32,6 +32,10 @@ Ingredients needed on your machine before you start going into the exercises:
 * "legacy code retreat" project for your chosen language
 * a local version control will help (we'll be doing some change, reset, repeat cycles) 
 
+## What next
+
+Keep practicing the shortcuts - long-term learning comes from repetition. Optimum rate is now, then next day, next week, next month and that should be it in your brains for life...
+
 ## References
 
 * IntelliJ: https://www.jetbrains.com/idea/docs/IntelliJIDEA_ReferenceCard.pdf
