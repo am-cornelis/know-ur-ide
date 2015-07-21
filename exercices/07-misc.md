@@ -1,7 +1,7 @@
 # Miscellaneous
 
 Here's a (somewhat random) selection I discovered recently, for IntelliJ:
-* Close the current tab: Shift+click
+* Close the current tab: Ctrl+F4
 * Search anywhere: double shift
 
 1. What's the equivalent for your chosen IDE, if it exists?
