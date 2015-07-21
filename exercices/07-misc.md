@@ -15,3 +15,4 @@ List raised during the workshop:
 * Ctrl + Home / End
 * Alt + PgUp / PgDwn (Resharper)
 * Ctrl + Shift + R (Resharper)
+* Alt + Enter (IntelliJ)
