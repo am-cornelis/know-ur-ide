@@ -7,3 +7,11 @@ Here's a (somewhat random) selection I discovered recently, for IntelliJ:
 1. What's the equivalent for your chosen IDE, if it exists?
 1. What features from your IDE haven't we touched on yet?
 1. Go hunt for a feature that looks interesting and share with your neighbourgs / the group
+
+List raised during the workshop:
+* Ctrl + Alt + left / right: extend selection (Resharper)
+* Home / End (!)
+* Ctrl + [ Shift + ] left/right
+* Ctrl + Home / End
+* Alt + PgUp / PgDwn (Resharper)
+* Ctrl + Shift + R (Resharper)
