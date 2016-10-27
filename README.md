@@ -8,8 +8,8 @@ beneficial.
 
 ## Exercises
 
-The various exercices are here to help you discover features of your existing IDE, or might be useful if you want to
-switch to a new one to start exploring. There are some some exercises covering basic text editing, some based around
+The various exercises are here to help you discover features of your existing IDE, or might be useful if you want to
+switch to a new one to start exploring. There are some exercises covering basic text editing, some based around
 refactoring, etc .
 You are encouraged to follow a "both hands on keyboard" rule to go further and forgo the mouse/trackpad entirely to
 start building muscle memory for those time saving shortcuts....
@@ -30,11 +30,12 @@ with. However, if there's another codebase you're familiar with, there are proba
 Ingredients needed on your machine before you start going into the exercises:
 * IDE / Text Editor of choice
 * "legacy code retreat" project for your chosen language
-* a local version control will help (we'll be doing some change, reset, repeat cycles) 
+* a local version control system will help, like git (we'll be doing some change, reset, repeat cycles)
 
 ## What next
 
-Keep practicing the shortcuts - long-term learning comes from repetition. Optimum rate is now, then next day, next week, next month and that should be it in your brains for life...
+Keep practicing the shortcuts - long-term learning comes from repetition. Optimum rate is now, then next day,
+next week, next month and then that should be it in your brains for life...
 
 ## References
 

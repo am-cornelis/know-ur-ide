@@ -7,3 +7,4 @@
 1. Make a change to 2 files and commit changes. Same steps as above.
 1. Make a change to 2 files, revert one and commit the other. Same steps as above.
 1. Compare a file to a previous version. Same steps as above.
+1. Edit a file in several places, only commit some changes. Same steps as above. (This is if you're using git in particular... interactive adding, I'm looking at you!)

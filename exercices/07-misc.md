@@ -6,7 +6,7 @@ Here's a (somewhat random) selection I discovered recently, for IntelliJ:
 
 1. What's the equivalent for your chosen IDE, if it exists?
 1. What features from your IDE haven't we touched on yet?
-1. Go hunt for a feature that looks interesting and share with your neighbourgs / the group
+1. Go hunt for a feature that looks interesting and share with your neighbours / the group
 
 List raised during the workshop:
 * Ctrl + Alt + left / right: extend selection (Resharper)
