@@ -30,7 +30,7 @@ with. However, if there's another codebase you're familiar with, there are proba
 Ingredients needed on your machine before you start going into the exercises:
 * IDE / Text Editor of choice
 * "legacy code retreat" project for your chosen language
-* a local version control system will help, like git (we'll be doing some change, reset, repeat cycles)
+* a local version control system will help, like [git](https://git-scm.com) (we'll be doing some change, reset, repeat cycles)
 
 ## What next
 
